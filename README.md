@@ -1,213 +1,203 @@
-<h1 align="center">Hi there, I'm Mannala Abiram 👋</h1>
+<div align="center">
 
+<!-- ============ HERO BANNER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mannala%20Abiram&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-
-<h3 align="center">AI/ML Engineer | LLM & RAG Systems | LangChain · FastAPI · Vector Search</h3>
-
-
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=mannalaabiram2005&label=Profile%20views&color=0e75b6&style=flat" alt="mannalaabiram2005" />
-
-  <a href="https://twitter.com/mannalaabiram" target="_blank">
-
-    <img src="https://img.shields.io/twitter/follow/mannalaabiram?logo=twitter&style=for-the-badge" alt="mannalaabiram" />
-
-  </a>
-
-</p>
-
-
-
-<p align="center">
-
-  🌍 Based in India &nbsp;|&nbsp; 💡 Building production-ready AI solutions &nbsp;|&nbsp; 🎯 Open to AI/ML Engineer & Intern roles
-
-</p>
-
-
-
-<p align="center"><i>
-
-I'm passionate about turning complex AI ideas into practical, real-world applications — from Retrieval-Augmented Generation systems to intelligent agents and production-grade ML pipelines. I enjoy working across the full stack of AI engineering: data, models, APIs, and deployment.
-
-</i></p>
-
-
-
-<hr/>
-
-
-
-### 🔭 Currently Working On
-
-**[AI Resume Shortlister](https://github.com/mannalaabiram2005-art/AI_RESUME_SHORTLISTER)** — an intelligent ATS resume screening system built with FastAPI, FAISS & semantic search.
-
-
-
-### 🌱 Currently Learning
-
-Advanced Generative AI • Agentic AI • Retrieval-Augmented Generation (RAG) • LangGraph • LangChain • Model Context Protocol (MCP) • FastAPI • PostgreSQL • pgvector • Vector Databases (FAISS, ChromaDB) • LLM Evaluation • AI System Design • Docker
-
-
-
-### 👯 Looking to Collaborate On
-
-**[InsightAI – Full-Stack RAG AI Agent](https://github.com/mannalaabiram2005-art/InsightAI)**
-
-
-
-### 🤝 Looking for Help With
-
-**[MediQueue – Smart Hospital Appointment & Token Management System](https://github.com/mannalaabiram2005-art/Smart_Appointment)**
-
-
-
-### 👨‍💻 Portfolio
-
-All of my projects are available at **[abi-portfolio-smb5.vercel.app](https://abi-portfolio-smb5.vercel.app/)**
-
-
-
-<hr/>
-
-
-
-### 🛠️ Technologies & Tools
-
-
-
-<p align="left">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-
-</p>
-
-
-
-<hr/>
-
-
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mannalaabiram2005" alt="mannalaabiram2005" /></a>
-
-</p>
-
-
-
-<hr/>
-
-
-
-### 🤝 Let's Connect!
-
-
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
-
-
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/charleschiko" target="_blank">
-
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
+<!-- ============ ANIMATED TYPING BANNER ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+RAG+%26+Agentic+AI+Systems;LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Vector+Search;Turning+Complex+AI+Ideas+Into+Real-World+Products;Open+to+AI%2FML+Engineer+%26+LLM+Engineer+Roles" alt="Typing SVG" />
 </a>
 
-<a href="mailto:abirammannala@gmail.com">
+<br/>
 
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abi-portfolio-smb5.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abirammannala)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirammannala@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14TRTlkustqs5eCR3ssIBkB9e4ykDRrIC/view?usp=drive_link)
 
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=mannalaabiram2005-art&label=Profile%20Views&color=58A6FF&style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to-AI%2FML%20%7C%20LLM%20%7C%20GenAI%20Roles-2ea44f?style=flat-square)
 
-<a href="https://abi-portfolio-smb5.vercel.app/" target="_blank">
+</div>
 
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<br/>
 
-</a>
+## 👋 About Me
 
-<a href="https://drive.google.com/file/d/14TRTlkustqs5eCR3ssIBkB9e4ykDRrIC/view?usp=drive_link" target="_blank">
+I'm **Mannala Abiram**, an AI/ML Engineer from India focused on **Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI systems**. I build production-oriented pipelines that connect data, models, APIs, and deployment — not just notebooks.
 
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+- 🔭 Currently building **[AI Resume Shortlister](https://github.com/mannalaabiram2005-art/AI_RESUME_SHORTLISTER)** — an ATS-style resume screening engine powered by FastAPI + FAISS semantic search.
+- 🌱 Deepening expertise in **Agentic AI, LangGraph, Model Context Protocol (MCP), and Vector Database architecture**.
+- 👯 Open to collaborating on **[InsightAI](https://github.com/mannalaabiram2005-art/InsightAI)** — a full-stack RAG agent.
+- 🤝 Looking for help on **[MediQueue](https://github.com/mannalaabiram2005-art/Smart_Appointment)** — a smart hospital appointment & token management system.
+- 🎯 Actively seeking **AI/ML Engineer, Generative AI Engineer, LLM Engineer,** and **AI Software Engineer** roles.
+- 💬 Ask me about RAG pipelines, LLM orchestration, vector search, or FastAPI backend architecture.
 
-</a>
+<br/>
 
-</p>
+## 🧠 AI Domains I Work In
+
+<div align="center">
+
+| Domain | Focus Areas |
+|---|---|
+| 🔎 **Retrieval-Augmented Generation** | Semantic search, chunking strategies, hybrid retrieval, re-ranking |
+| 🤖 **Agentic AI** | Multi-step agents, tool use, LangGraph state machines, MCP |
+| 🗂️ **Vector Search & Databases** | FAISS, ChromaDB, pgvector, embedding pipelines |
+| ⚙️ **AI System Design** | API-first architecture, scalable inference, evaluation loops |
+| 🧾 **Applied NLP** | Resume parsing, document intelligence, ATS scoring |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Fundamentals</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>AI / Machine Learning</b></td>
+<td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+<img src="https://github.com/langchain-ai.png" title="LangChain" alt="LangChain" width="40" height="40" style="border-radius:6px"/>&nbsp;
+<img src="https://github.com/langchain-ai.png" title="LangGraph" alt="LangGraph" width="40" height="40" style="border-radius:6px"/>&nbsp;
+<img src="https://github.com/run-llama.png" title="LlamaIndex" alt="LlamaIndex" width="40" height="40" style="border-radius:6px"/>&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>APIs</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Deployment</b></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧾 [AI Resume Shortlister](https://github.com/mannalaabiram2005-art/AI_RESUME_SHORTLISTER)
+Intelligent ATS-style resume screening system.
+
+`FastAPI` · `FAISS` · `Semantic Search` · `ATS Scoring` · `Resume Parsing`
+
+</td>
+<td width="50%">
+
+### 🤖 [InsightAI](https://github.com/mannalaabiram2005-art/InsightAI)
+Full-stack Retrieval-Augmented Generation agent.
+
+`LangChain` · `LangGraph` · `HuggingFace` · `ChromaDB` · `FastAPI` · `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 [MediQueue](https://github.com/mannalaabiram2005-art/Smart_Appointment)
+Smart hospital appointment & token management system.
+
+`Token Management` · `Digital Patient Records` · `Appointment Scheduling`
+
+</td>
+<td width="50%">
+
+### 🌐 [Portfolio Website](https://abi-portfolio-smb5.vercel.app/)
+Personal portfolio showcasing full project catalog and case studies.
+
+`Vercel` · `React` · `Responsive Design`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 
+## 🎓 Current Learning Roadmap
 
-<hr/>
+- [x] LangChain & LangGraph fundamentals
+- [x] FAISS / ChromaDB vector search
+- [ ] Model Context Protocol (MCP) integrations
+- [ ] pgvector at production scale
+- [ ] LLM evaluation frameworks (RAGAS, DeepEval)
+- [ ] Multi-agent orchestration patterns
+- [ ] Docker-based AI service deployment
 
+## 🎯 2026 Goals
 
+- 📌 Land a full-time AI/ML or LLM Engineer role
+- 📌 Ship InsightAI to a public production release
+- 📌 Contribute to an open-source RAG or agent framework
+- 📌 Publish a technical write-up on production RAG evaluation
+- 📌 Earn a cloud/AI infrastructure certification
 
-### ⚡ Fun Fact
+<br/>
 
+## 🤝 Let's Connect
 
+<div align="center">
 
-```python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abirammannala)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirammannala@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abi-portfolio-smb5.vercel.app/)
 
-#!/usr/bin/python
+</div>
 
-# -*- coding: utf-8 -*-
+<br/>
 
-class AIEngineer:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
-
-
-    def __init__(self):
-
-        self.name = "Mannala Abiram"
-
-        self.role = "AI/ML Engineer | LLM & RAG Systems"
-
-        self.fun_fact = "I enjoy turning complex AI ideas into practical, real-world applications."
-
-
-
-    def say_hi(self):
-
-        print(f"Hi, I'm {self.name} — {self.role}. {self.fun_fact}")
-
-
-
-Abiram = AIEngineer()
-
-Abiram.say_hi()
-
-```
+<div align="center">
+<sub>⭐ If you find my work interesting, consider starring my repositories — thanks for visiting!</sub>
+</div>
