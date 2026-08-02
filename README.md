@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- ============ HERO BANNER ============ -->
-<img src="./assets/banner.svg" alt="Mannala Abiram — AI/ML Engineer | LLM & RAG Systems" width="100%"/>
 
 <!-- ============ ANIMATED TYPING BANNER ============ -->
 <a href="#">
