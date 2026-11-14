@@ -75,6 +75,26 @@ Parses bulk PDF resumes and ranks candidates against a job description with **Se
 
 `Python` `LangChain` `Sentence Transformers` `FAISS` `FastAPI` `Streamlit`
 
+```mermaid
+flowchart LR
+    subgraph Ingest["Resume ingestion"]
+        A["Bulk PDF resumes"] --> B["Text parsing"]
+        B --> C["Profile extraction<br/>name, email, phone, skills"]
+        B --> D["Sentence Transformers<br/>embeddings"]
+        D --> E[("FAISS index")]
+    end
+    subgraph Match["Matching"]
+        J["Job description"] --> K["Sentence Transformers<br/>embedding"]
+        K --> S{"FAISS similarity search"}
+        E --> S
+        S --> T["Relevance threshold"]
+    end
+    T --> R["Ranked candidates"]
+    C --> R
+    R --> API["FastAPI endpoints"]
+    R --> UI["Streamlit dashboard"]
+```
+
 - Extracts names, emails, phone numbers and skills into structured, recruiter-ready results.
 - Streamlit dashboard and FastAPI endpoints to view ranked candidates and screening output.
 
@@ -82,6 +102,22 @@ Parses bulk PDF resumes and ranks candidates against a job description with **Se
 Doctor discovery, appointment booking and digital health records with a responsive React interface.
 
 `React.js` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
+
+```mermaid
+flowchart LR
+    U["Patient / Doctor / Admin / Pharmacist"] --> FE["React.js frontend<br/>responsive UI"]
+    FE -->|"REST + JWT"| AUTH{"JWT auth and<br/>role-based access"}
+    subgraph BE["FastAPI backend"]
+        AUTH --> RT["Routes"]
+        RT --> SV["Services"]
+        SV --> DM["Data models"]
+    end
+    DM --> ORM["SQLAlchemy"]
+    ORM --> DB[("PostgreSQL")]
+    SV -.-> F1["Doctor discovery"]
+    SV -.-> F2["Appointment booking"]
+    SV -.-> F3["Digital health records"]
+```
 
 - JWT authentication and role-based authorization for patients, doctors, administrators and pharmacists.
 - Backend structured into routes, services and data-model layers for maintainability.
